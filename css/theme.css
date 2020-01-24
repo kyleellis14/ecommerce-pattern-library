@@ -1,10 +1,7 @@
 :root {
-  --color-primary: goldenrod;
-  --color-primary-light: gold;
-  --color-secondary: lightcoral;
-  --color-accent: greenyellow;
-  --color-natural-beige: #e2e2e2;
-  --color-whatever: peachpuff;
+  --color-primary: #888C8D;
+  --color-secondary: #d7BE69;
+  --color-accent: Black;
   --font-primary: "Bennet Display", "FreightSans Pro Book", Arial, sans-serif;
   --font-secondary: "FreightSans Pro Book", Menlo, Consolas, monospace;
 }
