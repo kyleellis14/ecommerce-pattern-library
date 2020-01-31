@@ -2,4 +2,10 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "Style With Kyle"
+  description: A small business offering online shopping and personal styling.
   font_url: "https://use.typekit.net/qwq7gtx.css"
+  rationales:
+    typefaces.primary:
+      Bennet display was selected as it is a simple sans-serif font. This typeface will be used for all headings.
+    typefaces.secondary:
