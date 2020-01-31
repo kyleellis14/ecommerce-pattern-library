@@ -1,11 +1,32 @@
 :root {
-  --color-primary: #888C8D;
+  --color-primary: #aaa9ad;
+  --color-primary-light: #d8d8d8;
+  --color-primary-dark: #888C8D;
   --color-secondary: #d7BE69;
+  --color-secondary-light: #fff9d4;
+  --color-secondary-dark: #c1a87d;
   --color-accent: Black;
-  --font-primary: "Bennet Display", sans-serif;
-  --font-secondary: "Kazmir",serif;
+  --font-secondary: "fira-sans", sans-serif;
+  --font-primary: "kazimir", serif;
 }
 
 html {
   font-family: var(--font-primary);
+}
+
+h1, h2 {
+  font-family: var(--font-secondary);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+mark {
+  background-color: var(--color-secondary);
 }
