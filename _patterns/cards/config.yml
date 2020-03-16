@@ -1,0 +1,10 @@
+title: "Cards"
+description: |
+  Cards are used for specific ecommerce items being sold or displayed. Action required to be added to card etc.
+
+patterns:
+  item-card:
+    title: "Item"
+    description: |
+      Defult to using the item for all shopping pages.
+    width: 15em
