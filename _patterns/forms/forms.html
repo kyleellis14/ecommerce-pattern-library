@@ -1,0 +1,45 @@
+<form class="push-0">
+  <fieldset class="form">
+    <legend class="not-bold italic gutter-2 mega push-1-2">Check Out</legend>
+
+    <div class="grid">
+      <div class="form push gutter-2 unit xs-1 s-1 m-1 l-1-2">
+        <label for="name">Name</label>
+        <input id="name" name="name" required>
+      </div>
+
+      <div class="form push gutter-2 unit xs-1 s-1 m-1 l-1-2">
+        <label for="age">Address</label>
+        <input id="age" name="age" required>
+      </div>
+
+      <div class="form push gutter-2 unit xs-1 s-1 m-1 l-1-2">
+        <label for="email">Email</label>
+        <input id="email" type="email" name="email" required>
+      </div>
+
+      <div class="form push gutter-2 unit xs-1 s-1 m-1 l-1-2">
+        <label for="fitness">Size</label>
+        <input type="hidden" name="_subject" value="Request to join the mission">
+        <select id="fitness" name="_fitness">
+          <option>Select a size</option>
+          <option>Small</option>
+          <option>Medium</option>
+          <option>Large</option>
+          <option>X-Large</option>
+        </select>
+      </div>
+
+      <div class="form unit gutter-2 xs-1 s-1 m-1 l-1">
+        <label for="address">Shipping Information</label>
+        <textarea id="address" name="address" required></textarea>
+      </div>
+
+    </div>
+  </fieldset>
+
+  <div class=" form text-center">
+    <button class="btn btn-dark mega" type="submit">Check Out!</button>
+  </div>
+
+</form>

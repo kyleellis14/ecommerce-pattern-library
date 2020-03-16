@@ -1,0 +1,9 @@
+title: "Forms"
+description: |
+  This form will be used for purchasing product from your cart.
+
+patterns:
+  forms:
+    title: "Check Out Form"
+    description: |
+      Defult checkout form.
