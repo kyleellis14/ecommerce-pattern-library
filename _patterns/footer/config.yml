@@ -1,0 +1,9 @@
+title: "Footer"
+description:
+  This form will be used for purchasing product from your cart.
+
+patterns:
+  footer:
+    title:
+    description:
+      Defult footer nav.
