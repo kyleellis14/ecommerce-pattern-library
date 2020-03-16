@@ -1,0 +1,10 @@
+title: "Banner"
+description: |
+  Welcome banner to website.
+
+patterns:
+  Banner:
+    title: "Banner"
+    description: |
+      Welcome Banner for website.
+    width: 15em
