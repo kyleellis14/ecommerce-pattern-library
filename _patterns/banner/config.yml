@@ -1,9 +1,9 @@
 patterns:
   banner:
     fields:
-      – name: heading
+      - name: heading
         type: string
         example: "Style with Kyle"
-      – name: text
+      - name: text
         type: string
         example: "Jeans, boots, accessaries and more"
