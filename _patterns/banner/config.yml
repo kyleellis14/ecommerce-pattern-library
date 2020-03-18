@@ -6,4 +6,4 @@ patterns:
         example: "Style with Kyle"
       - name: text
         type: string
-        example: "Jeans, boots, accessaries and more"
+        example: "Shop all: Jeans, boots, accessaries and more"
