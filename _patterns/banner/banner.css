@@ -1,0 +1,6 @@
+banner.css:
+
+.banner {
+  background-color: var(--color-accent);
+  color: var(--color-primary-light);
+}
