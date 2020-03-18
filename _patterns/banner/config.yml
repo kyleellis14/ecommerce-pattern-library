@@ -1,10 +1,9 @@
-title: "Banner"
-description: |
-  Welcome banner to website.
-
 patterns:
-  Banner:
-    title: "Banner"
-    description: |
-      Welcome Banner for website.
-    width: 15em
+  banner:
+    fields:
+      – name: heading
+        type: string
+        example: "Style with Kyle"
+      – name: text
+        type: string
+        example: "Jeans, boots, accessaries and more"
