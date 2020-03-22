@@ -5,7 +5,6 @@
 <style type="text/css">
 	.st0{fill:#BABCBE;}
 </style>
-<rect x="-1.5" width="1923" height="1080"/>
-<title>Banner</title>
-<polygon class="st0" points="320.5,1080 1405.1,-0.1 1921.5,-0.1 1921.5,1080 "/>
+<path d="M-1.5,0h1923v1080H-1.5V0z"/>
+<path class="st0" d="M-1.5,1080L1921.5-0.1l0,0V1080H-1.5z"/>
 </svg>

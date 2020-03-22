@@ -1,4 +1,13 @@
 .banner {
-  background-color: var(--color-accent);
   color: var(--color-primary-light);
+  overflow: hidden;
+  max-height: 500px;
+}
+
+.banner-content {
+  top: 0;
+  left: 50%;
+  width: 100%;
+
+  transform: translateX(-50%);
 }
