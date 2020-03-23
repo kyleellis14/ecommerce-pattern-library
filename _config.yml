@@ -20,3 +20,9 @@ patternbot:
 collections:
   products:
     output: true
+
+defults:
+  - scope:
+      path: _products
+    values:
+      layout: product
