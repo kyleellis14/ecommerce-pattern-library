@@ -7,3 +7,15 @@ patterns:
       - name: text
         type: string
         example: "Shop all: jeans, boots, accessaries and more"
+
+patterns:
+  banner:
+    fields:
+      - name: button_text
+        type: string
+        example: "Shop Now"
+        required: false
+      - name: button_url
+        type: url
+        example: "/shop/"
+        required: false

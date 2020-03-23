@@ -3,6 +3,8 @@
   <div class="banner-content absolute wrapper pad-t-2">
     <h1 class="banner-title yotta">{{include.heading}}</h1>
     <p class="banner-info exa center">{{include.text}}</p>
-    {% pattern buttons/basic %}
+    {% if include.button_url %}
+      {% pattern buttons/light url=include.button_url text=include.button_text %}
+    {% endif %}
   </div>
 </div>
