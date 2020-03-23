@@ -1,10 +1,10 @@
 <div class="banner relative">
-  <img class="img-flex" src="images/banner-01.svg" alt="">
+  <img class="img-flex" src="/images/banner-01.svg" alt="#">
   <div class="banner-content absolute wrapper pad-t-2">
     <h1 class="banner-title yotta">{{include.heading}}</h1>
     <p class="banner-info exa center">{{include.text}}</p>
     {% if include.button_url %}
-      {% pattern buttons/light url=include.button_url text=include.button_text %}
+      {% pattern buttons/basic url=include.button_url text=include.button_text %}
     {% endif %}
   </div>
 </div>
