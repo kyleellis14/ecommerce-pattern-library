@@ -17,3 +17,6 @@ patternbot:
         The primary colour chosen as it is modern and symbolizes simplicity in fashion.
       colors.secondary:
         The seconday colour is to enhance a statment within the brand.
+collections:
+  products:
+    output: true
