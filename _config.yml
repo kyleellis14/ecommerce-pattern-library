@@ -21,7 +21,7 @@ collections:
   products:
     output: true
 
-defults:
+defaults:
   - scope:
       path: _products
     values:
