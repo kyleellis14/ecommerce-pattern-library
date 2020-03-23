@@ -4,10 +4,10 @@
   </div>
   <div class="unit xs-1 s-1 m-1 l-1 text-center">
     <ul class="list-group-inline">
-      <li class="kilo navy-text gutter-1-2 header-hover">Home</li>
-      <li class="kilo navy-text gutter-1-2 header-hover"><a href=""/products/">Shop</a></li>
-      <li class="kilo navy-text gutter-1-2 header-hover">Card</li>
-      <li class="kilo navy-text gutter-1-2 header-hover">Checkout</li>
+      <li class="kilo gutter-1-2 {% if page.highlight_nav == 'home' %}current{% endif %}"><a href="/">Home</a></li>
+      <li class="kilo gutter-1-2 {% if page.highlight_nav == 'shop' %}current{% endif %}"><a href="/products/">Shop</a></li>
+      <li class="kilo gutter-1-2 {% if page.highlight_nav == 'cart' %}current{% endif %}">Cart</li>
+      <li class="kilo gutter-1-2 {% if page.highlight_nav == 'checkout' %}current{% endif %}">Checkout</li>
     </ul>
   </div>
 </header>
