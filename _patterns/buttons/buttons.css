@@ -28,3 +28,9 @@
   color: var(--color-secondary-dark);
 
 }
+
+.btn-heart {
+  background-color: white;
+  border-color: var(--color-accent);
+
+}

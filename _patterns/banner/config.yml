@@ -6,7 +6,7 @@ patterns:
         example: "Style with Kyle"
       - name: text
         type: string
-        example: "Shop all: jeans, boots, accessaries and more"
+        example: "Shop all: jeans, boots, accessories and more"
 
 patterns:
   banner:

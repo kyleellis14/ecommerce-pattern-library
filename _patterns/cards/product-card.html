@@ -3,7 +3,7 @@
   <div class=" island relative">
     <h2 class="push-1-4">{{include.data.title}}</h2>
     <div class="pin-rt island">
-      <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#favorites"></use></svg></i>
+      {% pattern buttons/heart url=include.data.url %}
     </div>
       <p class="mega push-0 ">{{include.data.description}}</p>
       <p class="milli italic push-1-4">{{include.data.size}}</p>
