@@ -8,3 +8,11 @@ patterns:
     description: |
       Defult to using the item for all shopping pages.
     width: 15em
+
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.products[0]"
+          type: Product
+    width: 15em

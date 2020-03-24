@@ -4,3 +4,7 @@ highlight_nav: Shop
 ---
 
 {% pattern banner/banner heading="Style with Kyle" text="Shop all: jeans, boots, accessaries and more" %}
+
+{% for product in site.products %}
+  {% pattern cards/product-card data=product %}
+{% endfor %}
