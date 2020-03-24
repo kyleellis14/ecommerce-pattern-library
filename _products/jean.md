@@ -5,8 +5,8 @@ description: |
 image: "/images/stylish.jpg"
 price: 54.99
 size:
-  - "small"
-  - "medium"
-  - "large"
+  - "small, "
+  - "medium, "
+  - "large, "
   - "x-large"
 ---

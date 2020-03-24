@@ -5,6 +5,5 @@ description: |
 image: "/images/girl-jean.jpg/"
 price: 25.99
 size:
-  - "2"
-  - "12"
+  - "2 – 12"
 ---

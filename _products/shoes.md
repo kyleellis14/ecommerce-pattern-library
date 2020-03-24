@@ -5,6 +5,6 @@ description: |
 image: "/images/shoes.jpg"
 price: 60.00
 size:
-  - "US 6"
+  - "US 6, "
   - "US 12"
 ---

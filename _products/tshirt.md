@@ -5,8 +5,8 @@ description: |
 image: "/images/tshirt.jpg/"
 price: 24.99
 size:
-  - "small"
-  - "medium"
-  - "large"
+  - "small, "
+  - "medium, "
+  - "large, "
   - "x-large"
 ---
