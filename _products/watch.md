@@ -4,6 +4,6 @@ description: |
   Complimentary style accessory.
 image: "/images/watch.jpg/"
 price: 20.00
-colours:
-  - "brown/silver"
+size:
+  - "one sie fits all"
 ---

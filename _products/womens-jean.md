@@ -4,6 +4,7 @@ description: |
   Light was blue denim bottoms, supper stretch.
 image: "/images/girl-jean.jpg/"
 price: 25.99
-colours:
-  - "acid wash"
+size:
+  - "2"
+  - "12"
 ---

@@ -1,0 +1,13 @@
+<div class="card">
+  <img class="img-flex" src="{{include.data.image}}" alt"">
+  <div class=" island relative">
+    <h2 class="push-1-4">{{include.data.title}}</h2>
+    <div class="pin-rt island">
+      <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#favorites"></use></svg></i>
+    </div>
+      <p class="tera push-0">{{include.data.description}}</p>
+      <p class="tera push-0">{{include.data.size}}</p>
+      <p class="mega push-1-4">{{include.data.price}}<i>CAD</i></p>
+    {% pattern buttons/basic text="Add to cart" %}
+  </div>
+</div>
