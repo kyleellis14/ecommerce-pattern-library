@@ -11,12 +11,15 @@ The pattern library is a Jekyll & Patternbot based application, so it requires R
 
 Navigate to the correct folder in Terminal. Use GitHub Desktop’s Repository > Open in Termal command.
 Type the following command bundle install
+
 Starting the server
 The pattern library is a Jekyll & Patternbot based application that requires a running Terminal instance.
 
 Navigate to the correct folder in Terminal. Use GitHub Desktop’s Repository > Open in Termal command.
 Type the following command: bundle exec jekyll serve
+
 View the functional website at: http://localhost:4000
+
 View the pattern library at: http://localhost:4000/pattern-library/
 
 License & copyright
