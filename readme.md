@@ -1,4 +1,4 @@
-##Style With Kyle
+## Style With Kyle
 
 This website is is a shop that offers personal styling at the touch of your fingers based of an influencers key trends and style from outfits he has worn.
 
